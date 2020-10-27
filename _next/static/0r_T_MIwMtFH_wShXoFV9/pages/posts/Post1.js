@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{DtRb:function(n,t,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/posts/Post1",function(){return o("VYg1")}])},VYg1:function(n,t,o){"use strict";o.r(t),o.d(t,"default",(function(){return u}));o("YFqc"),o("8Kt/"),o("CafY");function u(){return null}}},[["DtRb",0,2,3,1,4]]]);
